@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SecondKadaiApp
 //
-//  Created by skull825nabe on 2021/08/12.
+
 //
 
 import UIKit
