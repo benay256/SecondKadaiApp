@@ -31,7 +31,7 @@
                                 <rect key="frame" x="184" y="399" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <segue destination="QPh-7q-HF5" kind="show" destinationCreationSelector="unwind:" id="JVb-4I-fkC"/>
+                                    <segue destination="QPh-7q-HF5" kind="show" id="JVb-4I-fkC"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -74,7 +74,7 @@
                                 <rect key="frame" x="191.5" y="221" width="31" height="30"/>
                                 <state key="normal" title="戻る"/>
                                 <connections>
-                                    <segue destination="Cfw-fo-6JS" kind="unwind" unwindAction="unwind:" id="CoQ-ox-yax"/>
+                                    <segue destination="Cfw-fo-6JS" kind="unwind" unwindAction="unwind:" id="jbf-nW-VxT"/>
                                 </connections>
                             </button>
                         </subviews>
