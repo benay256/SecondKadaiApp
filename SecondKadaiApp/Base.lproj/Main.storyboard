@@ -74,7 +74,7 @@
                                 <rect key="frame" x="191.5" y="221" width="31" height="30"/>
                                 <state key="normal" title="戻る"/>
                                 <connections>
-                                    <segue destination="Cfw-fo-6JS" kind="unwind" unwindAction="unwind:" id="6cE-Ku-Vn2"/>
+                                    <segue destination="Cfw-fo-6JS" kind="unwind" unwindAction="unwind:" id="CoQ-ox-yax"/>
                                 </connections>
                             </button>
                         </subviews>
